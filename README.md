@@ -19,6 +19,8 @@ Tertarik mengembangkan aplikasi web, server, hosting, dan domain.
 ![Server](https://img.shields.io/badge/Server-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Hosting](https://img.shields.io/badge/Hosting-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-2E7D32?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=router&logoColor=white)
+
 
 ---
 
