@@ -62,7 +62,7 @@ Kumpulan script konfigurasi Mikrotik untuk jaringan kantor kecil.
 📷 **Format**: dokumentasi + script konfigurasi  
 
 #### Topologi Jaringan
-![Topologi Mikrotik](https://files.catbox.moe/4qz8yk.png) <!-- ganti link jika upload sendiri -->
+![Topologi Mikrotik](assets/mikrotik-topologi.png)
 
 ---
 
