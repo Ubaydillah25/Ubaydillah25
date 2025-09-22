@@ -35,4 +35,5 @@ Tertarik mengembangkan aplikasi web, server, hosting, dan domain.
 ---
 
 ### ✨ Animasi Keren
-![Snake animation](https://github.com/Ubaydillah25/Ubaydillah25/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Ubaydillah25/Ubaydillah25/output/snake.svg)
+
